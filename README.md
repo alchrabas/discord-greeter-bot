@@ -1,7 +1,7 @@
 ![discord](https://discordapp.com/assets/dd4dbc0016779df1378e7812eabaa04d.png)
 
 # discord-greeter-bot
-My greeter bot for Discord
+A standard greeter bot used to "import" all messages from the JSON file into Discord. It uses the same format as mattermost-to-json-exporter.
 
 # Prerequisites
 
@@ -16,3 +16,8 @@ My greeter bot for Discord
 # Running Server
 
 Simply run the command `node bot.js`
+
+Added by alchrabas:
+
+File `formatted.json` and directory `images/` with the user-uplodaded images should be in the scripts CWD.
+
